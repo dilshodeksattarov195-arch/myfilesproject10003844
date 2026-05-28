@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervender",
+        "uuid": 23740544,
+        "checksum": "8y47t"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
